@@ -1,13 +1,33 @@
-<h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">A passionate Android developer from Tunisia, I am based in France</h3>
+#### Hey 👋🏽, I'm [Ismail!](https://ibenabdallah.github.io/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibenabdallah&label=Profile%20views&color=0e75b6&style=flat" alt="ibenabdallah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibenabdallah" alt="ibenabdallah" /></a> </p>
+<a href="https://twitter.com/ibenabdallah">
+  <img align="left" alt="Mehedi Hassan Piash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ibenabdallah/">
+  <img align="left" alt="Piash's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@ibenabdallah">
+  <img align="left" alt="Piash's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/ingbaismail" target="blank"><img src="https://img.shields.io/twitter/follow/ingbaismail?logo=twitter&style=for-the-badge" alt="ingbaismail" /></a> </p>
+![](https://komarev.com/ghpvc/?username=ibenabdallah&color=brightgreen&style=flat)
 
-- 📫 How to reach me **benabdallahismail121@gmail.com**
+
+<br />
+
+Hi, I'm [Ismail BENABDALLAH](https://ibenabdallah.github.io/), 9 years of experience mobile app developer. Besides programming, I love eating food, traveling and playing.
+
+<img align="right" alt="GIF"  width="380px" height="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs), [compose](https://developer.android.com/jetpack/compose) and [compose-multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
+- 🌱 I’m currently learning [Compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) and [ktor](https://ktor.io/docs/welcome.html) client
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: benabdallahismail121@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1Y2iyZZHD41odEyndA3BOjOFxq8AEVdTp/view?usp=drive_link)
+- 🤵 [Portfolio](https://piashcse.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibenabdallah&show_icons=true&locale=en" alt="ibenabdallah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibenabdallah&" alt="ibenabdallah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibenabdallah" alt="ibenabdallah" /></p>
